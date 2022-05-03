@@ -3,7 +3,7 @@ import React from "react";
 export default function Introduction() {
     return (
         <div className="introduction">
-            <img src= "/PSASprint.png" className="introduction--image" alt="PSA"/>
+            <img src= "/PSASprint.png" className="introduction--image"/>
             <div className="introduction--text">
             <h1>Welcome to my site!</h1>
             <ul >
